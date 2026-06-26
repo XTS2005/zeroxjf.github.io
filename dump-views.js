@@ -1,5 +1,5 @@
 // dump-views.js
-// @param: slider | delaySec | Delay (Seconds) | 5 | 0-20
+// @param: slider | delaySec | 延迟（秒） | 5 | 0-20
 // Root-served Cyanide RepoTweak diagnostic helper. Dumps visible SpringBoard windows to /tmp and tries to present a share sheet.
 
 (function () {

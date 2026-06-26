@@ -1,8 +1,8 @@
 // floating_icons.js
-// @param: slider | floatY | Vertical Float | 12.0 | 0.0-30.0
-// @param: slider | floatX | Horizontal Float | 5.0 | 0.0-20.0
-// @param: slider | floatRot | Rotation | 0.035 | 0.0-0.1
-// @param: slider | minScale | Min Scale | 0.98 | 0.8-1.0
+// @param: slider | floatY | 垂直浮动 | 12.0 | 0.0-30.0
+// @param: slider | floatX | 水平浮动 | 5.0 | 0.0-20.0
+// @param: slider | floatRot | 旋转幅度 | 0.035 | 0.0-0.1
+// @param: slider | minScale | 最小缩放 | 0.98 | 0.8-1.0
 // Root-served Cyanide RepoTweak. Uses iOS 26+ rootFolderView paths plus legacy fallbacks.
 
 (function () {

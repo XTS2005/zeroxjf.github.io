@@ -1,5 +1,5 @@
 // dock_color.js
-// @param: color | dockColor | Dock Color | #FF0000
+// @param: color | dockColor | Dock 颜色 | #FF0000
 // Root-served Cyanide RepoTweak. Uses guarded iOS 26+ and pre-iOS 26 dock paths.
 
 (function () {
