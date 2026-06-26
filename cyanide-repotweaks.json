@@ -4,7 +4,7 @@
   "tweaks": [
     {
       "id": "lightsaber.hide-dock",
-      "name": "隐藏 Dock",
+      "name": "隐藏 Dock 栏",
       "description": "隐藏主屏幕的 Dock 背景。同时会隐藏 Dock 中的应用图标——应用前请先将它们移到主屏幕网格。注销即可恢复。",
       "version": "1.0.5",
       "author": "@MinePlayer16",
@@ -13,7 +13,7 @@
     },
     {
       "id": "lightsaber.hide-homebar",
-      "name": "隐藏 Home 指示器",
+      "name": "隐藏主屏幕横条",
       "description": "隐藏底部的 Home 指示器。应用后请注销，以便 SpringBoard 刷新资源缓存。",
       "version": "1.0.2",
       "author": "zeroxjf",
@@ -22,7 +22,7 @@
     },
     {
       "id": "lightsaber.dock-color",
-      "name": "Dock 颜色",
+      "name": "Dock 栏颜色",
       "description": "使用自定义颜色为主屏幕 Dock 背景着色。适用于 iOS 26 及更早版本。",
       "version": "1.0.0",
       "author": "@MinePlayer16",
