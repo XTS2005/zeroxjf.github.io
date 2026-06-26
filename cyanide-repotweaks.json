@@ -5,7 +5,7 @@
     {
       "id": "lightsaber.hide-dock",
       "name": "隐藏 Dock 栏",
-      "description": "隐藏主屏幕的 Dock 背景。同时会隐藏 Dock 中的应用图标——应用前请先将它们移到主屏幕网格。注销即可恢复。",
+      "description": "隐藏主屏幕的 Dock 栏背景。同时会隐藏 Dock 栏中的应用图标——应用前请先将它们移到主屏幕网格。注销即可恢复。",
       "version": "1.0.5",
       "author": "@MinePlayer16",
       "symbol": "dock.rectangle",
@@ -14,7 +14,7 @@
     {
       "id": "lightsaber.hide-homebar",
       "name": "隐藏主屏幕横条",
-      "description": "隐藏底部的 Home 指示器。应用后请注销，以便 SpringBoard 刷新资源缓存。",
+      "description": "隐藏底部的横条，应用后请注销。",
       "version": "1.0.2",
       "author": "zeroxjf",
       "symbol": "line.3.horizontal",
@@ -23,7 +23,7 @@
     {
       "id": "lightsaber.dock-color",
       "name": "Dock 栏颜色",
-      "description": "使用自定义颜色为主屏幕 Dock 背景着色。适用于 iOS 26 及更早版本。",
+      "description": "自定义主屏幕 Dock 栏背景颜色。适用于 iOS 26 及更早版本。",
       "version": "1.0.0",
       "author": "@MinePlayer16",
       "symbol": "paintpalette.fill",
@@ -32,7 +32,7 @@
     {
       "id": "lightsaber.hide-search-pill",
       "name": "隐藏搜索药丸",
-      "description": "隐藏主屏幕上的搜索药丸。仅测试过 iOS 18 及以下版本。",
+      "description": "隐藏主屏幕下的搜索药丸。仅测试过 iOS 18 及以下版本。",
       "version": "1.0.6",
       "author": "@MinePlayer16",
       "symbol": "magnifyingglass",
@@ -44,7 +44,7 @@
     {
       "id": "lightsaber.floating-icons",
       "name": "浮动图标",
-      "description": "为主屏幕和 Dock 图标添加柔和的浮动动画。可配置运动幅度、旋转和缩放。",
+      "description": "为主屏幕和 Dock 栏图标添加柔和的浮动动画。可配置运动幅度、旋转和缩放。",
       "version": "1.0.0",
       "author": "@MinePlayer16",
       "symbol": "wind",
